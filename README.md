@@ -5,7 +5,7 @@
 ## Overall Functions
 
 <p align="center">
-  <img src="PCB_V1.2.png" width="350" title="Hat Board V1.2">
+  <img src="PCB V1.2.png" width="600" title="Hat Board V1.2">
 </p>
 
 For this design, the input voltage is 12V, which is split to a linear regulator and to the motor controller for power. The 9V regulator steps down the voltage to input into the Vin pin on the Arduino mega, which will output 5V, which will power the sensors and joysticks. 
@@ -19,6 +19,12 @@ The motor controller is getting 12V power through a single pole double through E
 ## GBR and DRL Files
 
 These files are zipped in zip folders labled by their itteration number. Each of these zip files can be uploaded to a PCB printing website or a GBR file viewer and the PCB designs should be fully portrayed.
+
+## Code Link
+
+https://github.com/av17998/Baby-Car-Code
+
+Design property of Purdue Polytechnic Institute 
 
 ## V1.2 Changes
 
